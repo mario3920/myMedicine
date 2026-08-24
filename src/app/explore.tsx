@@ -51,7 +51,7 @@ export default function TabTwoScreen() {
                 <SymbolView
                   tintColor={theme.text}
                   name={{ ios: 'arrow.up.right.square', android: 'link', web: 'link' }}
-                  size={12}
+                  size={50}
                 />
               </ThemedView>
             </Pressable>
